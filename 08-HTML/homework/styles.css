@@ -1,0 +1,31 @@
+h1{
+    color: maroon;
+}
+ul{
+    list-style-image: url("https://mdn.mozillademos.org/files/11981/starsolid.gif");
+}
+img{
+    width: 400px;
+    height: 250px;
+}
+#thirdDiv
+{
+    height: 600px;
+    width: 500;
+    background-color:rgb(235, 219, 201) ;
+    color: darkgoldenrod;
+    width: 600px;   
+    border-color: darkblue;
+    border-width: 2px;
+    border-style: dotted;     
+}
+#spanId
+{
+    font-size: 18px; 
+    margin: 50px; 
+    padding: 50px;     
+   
+}
+html{
+    background-color:lightyellow;
+}
